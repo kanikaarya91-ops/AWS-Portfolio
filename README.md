@@ -16,7 +16,7 @@ Migrating legacy backup data to AWS with a lifecycle policy that moves cold data
 - CloudWatch (optional)
 
 ##  Architecture Diagram
-_→ Upload `architecture.png`
+![Cloud Backup Architecture](./architecture.png)
 
 ##  Steps
 1. Create an S3 bucket with versioning enabled
